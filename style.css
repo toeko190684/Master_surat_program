@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header {
+	background-color: #006666;
+	height: 2%;
+	width: 97%;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	padding-right: 10px;
+	float: left;
+}
+#body {
+	width: 98%;
+	height: auto;
+	border: thin dashed #CCCCCC;
+	padding-top: 100px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+#menu {
+	background-color: #99CCCC;
+	width: 98%;
+	float: left;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#info {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	background-color: #CC9900;
+	height: 30px;
+	width: 300px;
+	padding: 5px;
+	position: fixed;
+	top: 8%;
+	right: 5%;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+}
+
+#wrapper {
+}
+th {
+	background-color: #006666;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+td {
+	padding-right: 8px;
+	padding-left: 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: thin solid #FFFFFF;
+}
+tr:hover { background:#99BCBF;
+ border:1px solid #03476F;
+ color:#000000;
+}
+table {
+	background-color: #E0E0E0;
+	border-right-width: thin;
+	border-left-width: thin;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #C0C0C0;
+	border-left-color: #C0C0C0;
+}
+#cetak {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	height: auto;
+	width: auto;
+	padding: 5px;
+	position: fixed;
+	top: 15%;
+	right: 10%;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+}
